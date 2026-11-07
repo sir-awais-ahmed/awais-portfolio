@@ -59,7 +59,7 @@ function countUp(el) {
   const NS = 'http://www.w3.org/2000/svg';
   const data = [
     ['Attendance', 2, 2], ['Conduct', 2, 2], ['Communication', 3, 3], ['Teamwork', 2, 2],
-    ['Quality of work', 4, 4], ['Initiative', 2, 3], ['Responsibility', 2, 2], ['Adaptability', 1, 2],
+    ['Quality of work', 4, 4], ['Initiative', 3, 3], ['Responsibility', 2, 2], ['Adaptability', 2, 2], ['Overall', 2, 2],
   ];
   const n = data.length;
   // Phones scale the chart down, so draw a smaller web with more room for the (larger) labels
